@@ -1,0 +1,15 @@
+D:\VS\repos\MDI Form\bin\Debug\MDI Form.exe.config
+D:\VS\repos\MDI Form\bin\Debug\MDI Form.exe
+D:\VS\repos\MDI Form\bin\Debug\MDI Form.pdb
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.csproj.AssemblyReference.cache
+D:\VS\repos\MDI Form\obj\Debug\MDI_Form.GUI.Menu_Utama.resources
+D:\VS\repos\MDI Form\obj\Debug\MDI_Form.Properties.Resources.resources
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.csproj.GenerateResource.cache
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.csproj.CoreCompileInputs.cache
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.exe
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.pdb
+D:\VS\repos\MDI Form\obj\Debug\MDI_Form.GUI.FormBarang.resources
+D:\VS\repos\MDI Form\obj\Debug\MDI_Form.GUI.FormLogin.resources
+D:\VS\repos\MDI Form\bin\Debug\MySql.Data.dll
+D:\VS\repos\MDI Form\bin\Debug\MySql.Data.xml
+D:\VS\repos\MDI Form\obj\Debug\MDI Form.csproj.CopyComplete
